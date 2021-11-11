@@ -1,7 +1,7 @@
 
-# MMTAPI - WebAPI with .NET 5.0 - Alasdair Reid
+# WebAPI with .NET 5.0 - Alasdair Reid
 
-- The API exposes customer data from the MMT supplied endpoint.
+- The API exposes customer data from an endpoint.
 - The API communicates with a DB based on parameters user and customer ID.
 - Tested using SwaggerUI as part of the WEBAPI testing tools in .NET CORE 5.0 using the following detail.
 
